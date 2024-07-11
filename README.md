@@ -18,22 +18,19 @@ Git
 1. Clone the Repository:
    
 bash
-Copy code
-git clone https://github.com/your-username/text-summarizer-chatbot.git
-cd text-summarizer-chatbot
+*git clone https://github.com/your-username/text-summarizer-chatbot.git
+*cd text-summarizer-chatbot
 
 2. Create and Activate a Virtual Environment:
     
 bash
-Copy code
-python -m venv chat
-source chat/bin/activate  # On Windows: chat\Scripts\activate
+*python -m venv chat
+*source chat/bin/activate  # On Windows: chat\Scripts\activate
 
 3. Install Dependencies:
 
 bash
-Copy code
-pip install -r requirements.txt
+*pip install -r requirements.txt
 
 
 ### File Structure
@@ -62,7 +59,7 @@ Contributions are welcome! Please open an issue or create a pull request with yo
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
-Flask
-Hugging Face Transformers
-PyPDF2
-python-docx
+*Flask
+*Hugging Face Transformers
+*PyPDF2
+*python-docx

@@ -18,24 +18,23 @@ Git
 1. Clone the Repository:
    
 bash
-*git clone https://github.com/your-username/text-summarizer-chatbot.git
-*cd text-summarizer-chatbot
+* git clone https://github.com/your-username/text-summarizer-chatbot.git
+* cd text-summarizer-chatbot
 
 2. Create and Activate a Virtual Environment:
     
 bash
-*python -m venv chat
-*source chat/bin/activate  # On Windows: chat\Scripts\activate
+* python -m venv chat
+* source chat/bin/activate  # On Windows: chat\Scripts\activate
 
 3. Install Dependencies:
 
 bash
-*pip install -r requirements.txt
+* pip install -r requirements.txt
 
 
 ### File Structure
-php
-Copy code
+```
 project_root/
 ├── app.py
 ├── requirements.txt
@@ -48,6 +47,7 @@ project_root/
 ├── uploads/
 ├── chat/  # Your virtual environment directory (not included in Git)
 └── README.md
+```
 
 
 Go to the GitHub repository and create a pull request for your changes.

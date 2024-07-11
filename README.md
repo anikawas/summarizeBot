@@ -18,19 +18,25 @@ Git
 1. Clone the Repository:
    
 bash
-* git clone https://github.com/your-username/text-summarizer-chatbot.git
-* cd text-summarizer-chatbot
+```
+git clone https://github.com/your-username/text-summarizer-chatbot.git
+cd text-summarizer-chatbot
+```
 
 2. Create and Activate a Virtual Environment:
     
 bash
-* python -m venv chat
-* source chat/bin/activate  # On Windows: chat\Scripts\activate
+```
+ python -m venv chat
+ source chat/bin/activate  # On Windows: chat\Scripts\activate
+```
 
 3. Install Dependencies:
 
 bash
-* pip install -r requirements.txt
+``` 
+pip install -r requirements.txt
+```
 
 
 ### File Structure

@@ -59,7 +59,7 @@ Contributions are welcome! Please open an issue or create a pull request with yo
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
-*Flask
-*Hugging Face Transformers
-*PyPDF2
-*python-docx
+* Flask
+* Hugging Face Transformers
+* PyPDF2
+* python-docx

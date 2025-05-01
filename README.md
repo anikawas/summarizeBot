@@ -61,8 +61,6 @@ Go to the GitHub repository and create a pull request for your changes.
 ## Contributing
 Contributions are welcome! Please open an issue or create a pull request with your improvements.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
 * Flask
